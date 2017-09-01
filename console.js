@@ -2,7 +2,7 @@
 //How much loop Time needed
 var loopTimes=5000;
 //Sleep between each loop
-var sleepMicroSecond=31050;
+var sleepMicroSecond=3015;
 
  
 
